@@ -17,6 +17,17 @@
                 "notes": ""
             },
             {
+                "name": "Arthur",
+                "thresholds": {
+                    "unit": null,
+                    "green_max": null,
+                    "amber_max": null,
+                    "red_min": 0
+                },
+                "synonyms": [],
+                "notes": ""
+            },
+            {
                 "name": "erwtenvezel",
                 "thresholds": {
                     "unit": null,
