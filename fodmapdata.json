@@ -2,22 +2,11 @@
     "name": "FODMAP_Eliminatiefase_Restricties",
     "info": "Gebaseerd op FODMAP dieet checklijsten 2024 (lange lijst). Thresholds: green_max=laag, amber_max=beperkt, red_min=hoog. Een red_min van 0 betekent: altijd hoog/vermijden.",
     "source": "FODMAP - Blad1.csv",
-    "generated_on": "2026-01-19 18:02:55",
+    "generated_on": "2026-01-19 18:03:55",
     "categories": {
         "restricted_ingredients": [
             {
                 "name": "cichorei",
-                "thresholds": {
-                    "unit": null,
-                    "green_max": null,
-                    "amber_max": null,
-                    "red_min": 0
-                },
-                "synonyms": [],
-                "notes": ""
-            },
-            {
-                "name": "Arthur de rijke",
                 "thresholds": {
                     "unit": null,
                     "green_max": null,
